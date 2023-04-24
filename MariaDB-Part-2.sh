@@ -6,7 +6,8 @@ mysql -u root
 # Show default databases in the MariaDB Server.
 SHOW DATABASES;
 
-# Choose a database (mysql db) to work with. ⚠️ Caution: We have chosen mysql db as demo purposes, normally database mysql is used by server itself, it shouldn't be changed or altered by the user.
+# Choose a database (mysql db) to work with. 
+#⚠️ Caution: We have chosen mysql db as demo purposes, normally database mysql is used by server itself, it shouldn't be changed or altered by the user.
 USE mysql;
 
 # Show tables within the mysql db.
